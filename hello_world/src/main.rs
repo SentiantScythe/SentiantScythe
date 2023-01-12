@@ -1,12 +1,10 @@
-
+fn main()
 use std::io::{self, Read};
 use rand::Rng;
 use std::io::{Write,BufReader,BufRead,ErrorKind};
 use std::fs::File;
 use std::cmp::Ordering;
-
-
-fn main() {
+{
     print!("What is your name?");
     let mut name: String = String::new();
     let greeting: &str = "nice to meet you";
