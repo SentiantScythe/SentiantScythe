@@ -1,4 +1,4 @@
-#![allow(...)]
+#![allow(unused_imports)]
 
 use std::io::{self, Read};
 use rand::Rng;
