@@ -1,3 +1,5 @@
+#![allow(...)]
+
 use std::io::{self, Read};
 use rand::Rng;
 use std::io::{Write,BufReader,BufRead,ErrorKind};
