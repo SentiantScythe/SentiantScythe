@@ -11,8 +11,6 @@ fn main()
     print!("What is your name?");
     let mut name: String = String::new();
     let greeting: &str = "nice to meet you";
-    io::stdin().read_line(Buf: &mut name) Result<usize,
-     Error>
-        .expect(msg: "Didnt recieve input");
+    io::stdin().read_line(BufRead: &mut name) Result<usize,Error>.expect(msg: "Didnt recieve input");
     println!("Hello{}!!! {}", name.trim_end(), greeting);
 }
