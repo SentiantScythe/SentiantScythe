@@ -1,0 +1,25 @@
+{
+  "name": "fedbox",
+  "version": "1.0.0",
+  "description": "A workspace for learning and experimenting with TypeScript and Linux.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SentiantScythe/fedbox.git"
+  },
+  "keywords": [
+    "typescript",
+    "linux",
+    "learning"
+  ],
+  "author": "SentiantScythe",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
