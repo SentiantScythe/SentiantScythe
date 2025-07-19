@@ -1,0 +1,10 @@
+/home/DT/Documents/Dev/GIT/SentiantScythe/Fedbox/target/debug/deps/term-467a452076a79195.d: /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/lib.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/mod.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/searcher.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parser/compiled.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parser/names.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parm.rs
+
+/home/DT/Documents/Dev/GIT/SentiantScythe/Fedbox/target/debug/deps/libterm-467a452076a79195.rmeta: /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/lib.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/mod.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/searcher.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parser/compiled.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parser/names.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parm.rs
+
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/lib.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/mod.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/searcher.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parser/compiled.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parser/names.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/term-0.7.0/src/terminfo/parm.rs:

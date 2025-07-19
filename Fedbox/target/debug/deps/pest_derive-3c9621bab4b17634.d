@@ -1,0 +1,5 @@
+/home/DT/Documents/Dev/GIT/SentiantScythe/Fedbox/target/debug/deps/pest_derive-3c9621bab4b17634.d: /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-2.8.1/src/lib.rs
+
+/home/DT/Documents/Dev/GIT/SentiantScythe/Fedbox/target/debug/deps/libpest_derive-3c9621bab4b17634.so: /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-2.8.1/src/lib.rs
+
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_derive-2.8.1/src/lib.rs:

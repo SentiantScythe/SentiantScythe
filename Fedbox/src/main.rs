@@ -1,10 +1,35 @@
-// filepath: /fedbox/fedbox/src/main.rs
+use console::{style, Color};
+use dialoguer::{Select, theme::ColorfulTheme};
+use std::io;
 use std::process::Command;
 
-fn main() {
-    println!("Welcome to the Fedbox CLI!");
+fn main() -> io::Result<()> {
+    println!("{}", style("Welcome to Fedbox CLI!").bold().fg(Color::Green));
 
-    // Example of running a script
+    loop {
+        let items = vec!["Run Script", "Option 2", "Exit"];
+
+        let selection = Select::with_theme(&ColorfulTheme::default())
+            .with_prompt("Choose an option:")
+            .items(&items)
+            .interact()?;
+
+        match selection {
+            0 => run_script(),
+            1 => println!("Option 2 selected"), // Replace with actual functionality
+            2 => {
+                println!("Exiting Fedbox CLI.");
+                break;
+            }
+            _ => println!("Invalid selection"),
+        }
+    }
+
+    Ok(())
+}
+
+fn run_script() {
+    println!("Running script...");
     let output = Command::new("bash")
         .arg("scripts/example_script.sh")
         .output()

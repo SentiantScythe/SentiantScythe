@@ -1,0 +1,16 @@
+/home/DT/Documents/Dev/GIT/SentiantScythe/Fedbox/target/debug/deps/ron-cb8d570a537f5830.d: /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/lib.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/mod.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/id.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/tag.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/value.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/ser/mod.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/ser/value.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/error.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/value.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/extensions.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/options.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/parse.rs
+
+/home/DT/Documents/Dev/GIT/SentiantScythe/Fedbox/target/debug/deps/libron-cb8d570a537f5830.rmeta: /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/lib.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/mod.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/id.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/tag.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/value.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/ser/mod.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/ser/value.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/error.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/value.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/extensions.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/options.rs /home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/parse.rs
+
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/lib.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/mod.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/id.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/tag.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/de/value.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/ser/mod.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/ser/value.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/error.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/value.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/extensions.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/options.rs:
+/home/DT/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ron-0.7.1/src/parse.rs:
